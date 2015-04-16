@@ -1,0 +1,11 @@
+{
+  "amd": {},
+  "volo": {
+    "baseUrl": "www/lib",
+    "dependencies": {
+      "jquery": "github:jquery/jquery/2.1.3",
+      "cryptojs": "github:gwjjeff/cryptojs/master"
+    },
+    "type": "directory"
+  }
+}
